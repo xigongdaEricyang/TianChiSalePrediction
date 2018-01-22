@@ -1,0 +1,2 @@
+model_checkpoint_path: "tianchi_model-34500"
+all_model_checkpoint_paths: "tianchi_model-34500"
